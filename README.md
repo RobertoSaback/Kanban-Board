@@ -77,7 +77,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [https://pixabay.com/videos/]
 * [https://stackoverflow.com/questions/29640254/when-why-to-use-map-reduce-over-for-loops]
 * [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter]
 * [https://developer.mozilla.org/en-US/docs/Web/API/Element/focusout_event]
