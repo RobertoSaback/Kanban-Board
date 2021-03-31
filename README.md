@@ -50,12 +50,11 @@
 
 [![Kanban Board][ <img src="" alt="Logo" width="80" height="80">]](https://example.com)
 
-   The core idea about this project , at  the very first begining , was understand better how drag and drop api works . Nevertheless throughout the time i was studying about it and other questions came  out, as well as: "How can i storage all the information and keep it there when i open the browser again ? "  and  that leads me to create new  features for this project and make something better than the original idea. 
-   
+A kanban board is a visual way to manage tasks and workflows, Kanban—which is the Japanese word for “billboard”—was developed by Toyota in the 1940s. It was originally a scheduling system to execute just-in-time manufacturing. Tracking our activities on a daily basis is one  of the most eficient way to reach sucess on a project seeing and  parsing  how it grows.   
 
 Here's why:
 
-* A kanban board  is a good activities tracker , use this as my initial page helps me to keep my activities in line.
+* A kanban board  is a good activities tracker ,I'm currently using this project as my initial homepage in order to keep my activities in line.
 
 
 
