@@ -9,7 +9,7 @@
   <h3 align="center">Kanban Board Component made in JS</h3>
 
   <p align="center">
-    The idea was practice and create something using HTML Drag and Drop API
+    An activity tracker to keep your progress in line  on a daily basis
     <br />
     <a href="https://github.com/RobertoSaback"><strong>Explore other projects »</strong></a>
     <br />
